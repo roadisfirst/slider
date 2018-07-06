@@ -13,7 +13,8 @@ class App extends Component {
             <div className="wrapper">
             <SayFullName name="Ivan" surname="Petrov" link="vk.com" /> 
             <SayFullName name="Anna" surname="Domini" link="facebook.com" /> 
-            <SayFullName name="Ivo" surname="Pe" link="#" /> 
+            <SayFullName name="Ivo" surname="Pe" link="#" />
+             
             </div>
     );
   }
